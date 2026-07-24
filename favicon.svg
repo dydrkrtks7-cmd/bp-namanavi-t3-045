@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="16" y="16" width="32" height="32" rx="4" transform="rotate(45 32 32)" fill="hsl(328, 80%, 60%)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>진해 군항제 벚꽃</title>
+  <rect width="64" height="64" rx="11" fill="hsl(6 70% 22%)"/>
+  <g transform="rotate(180 32 32)"><path d="M12 26q10-10 20 0t20 0" fill="none" stroke="hsl(6 24% 96%)" stroke-width="7" stroke-linecap="round"/><path d="M12 40q10-10 20 0t20 0" fill="none" stroke="hsl(115 68% 58%)" stroke-width="7" stroke-linecap="round"/></g>
+</svg>
